@@ -1,0 +1,5 @@
+measure,desc,gap,p
+Core PCE,administered + imputed + goods,0.4717341961178969,0.07333267086261194
+Market-based core PCE,imputed prices removed,0.6654038886035223,0.004801025994355262
+CPI supercore,consumer-priced services,1.0602150888910051,0.03811967547275322
+CPI supercore ex-medical,+ administered medical removed,1.349088177138505,0.012760772454604713

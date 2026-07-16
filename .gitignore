@@ -1,0 +1,10 @@
+.env
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+*.symmetric_bak
+HANDOVER.md
+data_cache/_ri_raw/
